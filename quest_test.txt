@@ -1,0 +1,13 @@
+Which of the following lines of code starts activity Activity2 from a current activity Activity1?
+Which of the following is NOT a valid usage for Intents?
+Which of the following is not a valid Android resource file name?
+Which of the following is incorrect about the LogCat tool?
+Which of the following is a correct Android Manifest statement?
+
+
+
+https://vceguide.com/which-of-the-following-is-a-correct-android-manifest-statement/
+https://vceguide.com/which-of-the-following-is-incorrect-about-the-logcat-tool/
+https://vceguide.com/which-of-the-following-is-not-a-valid-android-resource-file-name/
+https://vceguide.com/which-of-the-following-is-not-a-valid-usage-for-intents/
+https://vceguide.com/which-of-the-following-lines-of-code-starts-activity-activity2-from-a-current-activity-activity1/
