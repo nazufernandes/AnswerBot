@@ -18,7 +18,7 @@ def find_answers(question):
     ans = page.find_all('strong')
     print(question)
     for op in ans:
-        print(str(op).replace('<strong>','').replace('</strong>',''))
+        print(str(op).get_text())
 
 #--Driver Code
 questions = []
