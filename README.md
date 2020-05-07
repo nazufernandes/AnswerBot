@@ -18,7 +18,7 @@ Clone The Repo and install the dependencies.
 ```sh
 $ git clone https://github.com/nazufernandes/AnswerBot.git
 $ cd AnswerBot
-$ pip install - r requirements.txt
+$ pip install -r requirements.txt
 $ python find_answers_script.py 
 ```
 
