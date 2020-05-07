@@ -32,7 +32,7 @@ See [README.md](https://github.com/nazufernandes/AnswerBot/blob/master/README.md
 ### Todos
 
  - Write MORE Tests
- - Add Night Mode
+ - add additional features
 
 License
 ----
